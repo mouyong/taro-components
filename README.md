@@ -4,7 +4,7 @@
 git subtree add -P src/components/ https://github.com/mouyong/taro-components.git master
 ```
 
-## 安装 taro-hooks
+## 安装 hooks
 前往查看：https://github.com/mouyong/taro-hooks
 
 ## 使用
